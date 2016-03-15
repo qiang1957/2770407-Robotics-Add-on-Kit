@@ -23,3 +23,14 @@ This Robotics Add-On Project Kit requires parts from the Robotics Starter Kit.
 
 ![]({{site.baseurl}}//1.png)
 
+## Circuit Examples:
+- [IR Sensor datasheet](https://github.com/qiang1957/2770407-Robotics-Add-On-Kit/blob/master/Support%20files/2770407%20IR%20Sensor%20datasheet.pdf)
+- [IR Sensor schematic](https://github.com/qiang1957/2770407-Robotics-Add-On-Kit/blob/master/Support%20files/2770407%20IR%20Sensor%20schematic.pdf)
+- [IR Sensor specs](https://github.com/qiang1957/2770407-Robotics-Add-On-Kit/blob/master/Support%20files/2770407%20IR%20Sensor%20specs.pdf)
+- [LED_Spotlight_schematics](https://github.com/qiang1957/2770407-Robotics-Add-On-Kit/blob/master/Support%20files/2770407_LED_Spotlight_schematics.pdf)
+
+
+
+
+
+
