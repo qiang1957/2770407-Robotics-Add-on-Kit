@@ -4,6 +4,7 @@ Surveillance Robot: Use the video function of your smartphone to peek into the n
 -  Bulldozer Robot: Pick up and drop off small items. 
 ![]({{site.baseurl}}//2.png)
 -  Drilling Robot: Drive around the room while you “bore” into things.
+![]({{site.baseurl}}//3.png)
 -  Street Sweeper Robot: Clear a path with two rotating sweeper plates.
 -  Catapult Robot: Get it outta here! Position the robot and launch small objects. 
 -  Spotlight Robot: Shed some light on the situation with and LED board that moves up, down, left, and right.
