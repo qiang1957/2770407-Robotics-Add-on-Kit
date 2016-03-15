@@ -1,6 +1,9 @@
 ## Getting Started
 Using parts from the Robotics Starter Kit and this Add-On Project Kit, you can build the following robots and program them using your Arduino Uno R3 (not included):
-Surveillance Robot: Use the video function of your smartphone to peek into the next room.
+-  Surveillance Robot: Use the video function of your smartphone to peek into the next room.
+
+![]({{site.baseurl}}//4.png)
+
 -  Bulldozer Robot: Pick up and drop off small items. 
 
 ![]({{site.baseurl}}//2.png)
